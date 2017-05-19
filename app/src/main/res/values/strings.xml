@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Consonant /dʒ/</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Đang nghe...</string>
+    <string name="speech_not_supported">Xin lỗi, thiết bị không hỗ trợ nhập giọng nói</string>
+    <string name="tap_on_mic">Bấm vào biểu tượng để nói</string>
+</resources>
